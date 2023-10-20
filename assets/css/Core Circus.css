@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Core Circus';
+	src: url(../../assets/fonts/CoreCircus.eot?h=608b0d72964260d0823cf786dedd5868) format('embedded-opentype'),
+	url(../../assets/fonts/CoreCircus.eot?h=608b0d72964260d0823cf786dedd5868) format('embedded-opentype'),
+	url(../../assets/fonts/CoreCircus.woff?h=608b0d72964260d0823cf786dedd5868) format('woff'),
+	url(../../assets/fonts/CoreCircus.ttf?h=608b0d72964260d0823cf786dedd5868) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
