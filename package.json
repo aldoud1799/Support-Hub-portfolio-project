@@ -1,0 +1,23 @@
+{
+  "name": "support-hub-portfolio-project",
+  "version": "1.0.0",
+  "description": "ALX Graduation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldoud1799/Support-Hub-portfolio-project.git"
+  },
+  "author": "Abdullah Abbas abdallah.abbas.jr@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldoud1799/Support-Hub-portfolio-project/issues"
+  },
+  "homepage": "https://github.com/aldoud1799/Support-Hub-portfolio-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7"
+  }
+}
